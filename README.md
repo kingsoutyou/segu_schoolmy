@@ -1,0 +1,1 @@
+# schoolmyを使ってsegu制御
